@@ -2,8 +2,9 @@
 
 ### 👨‍💻 I'm currently working on:
 
-- Masters thesis at Oregon State University where we are seeking to perform spatiotemporal analysis on sensor readings to detect anomalies such as wildfires and earthquakes. 
-- Machine learning and data analysis on Lane Transit District data to predict ridership. 
+- Masters thesis at Oregon State University where we are seeking to perform spatiotemporal analysis on sensor readings to detect anomalies such as wildfires and earthquakes.
+- [LTD Project - OSU Senior Capstone](https://github.com/BraydenJamesE/ltd-presentation)
+  - Machine learning and data analysis on Lane Transit District data to predict ridership. 
 
 ### 📚 Education: 
 
