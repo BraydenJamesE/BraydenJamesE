@@ -23,7 +23,7 @@
     
     Oregon State University – Senior
   
-    GPA: 3.81
+    GPA: 3.91
     
 - **M.S. in Artificial Intelligence** *(in progress)*
     
