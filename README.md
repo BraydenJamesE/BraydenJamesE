@@ -56,6 +56,26 @@
 - Databases (CS 340)
 - Security (CS 370)
 - Theory of Computation (CS 321)
+
+## 💻 Technologies & Tools
+
+**Languages & Programming**  
+Python, C++, C, Elm, SQL  
+
+**Libraries & Frameworks**  
+PyTorch, scikit-learn, pandas, NumPy, DuckDB  
+
+**Machine Learning & Analysis**  
+Ensemble Learning, SVM, Linear Models, Stratified Group K-Fold CV, SMOTE, Probability Calibration, ydata-profiling
+
+**Cloud & Platforms**  
+Google Cloud (Vertex AI), GitHub, Google Colab / Jupyter  
+
+**Data & Visualization**  
+Excel, ydata-profiling, matplotlib  
+
+**Development Tools**  
+Git, VS Code
   
 ## 📫 Contact
 
