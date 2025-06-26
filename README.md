@@ -31,7 +31,7 @@
 
     Advisor: Dr. Weng-Keen Wong
 
-    GPA: 3.80
+    GPA: 3.85
 
 ## ⛳️ Relevant Courses Taken
 
