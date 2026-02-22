@@ -19,7 +19,7 @@
 
     GPA: 4.00  
     
-- **B.S. in Computer Science** *(in progress)*
+- **B.S. in Computer Science**
     
     Oregon State University – Senior
   
