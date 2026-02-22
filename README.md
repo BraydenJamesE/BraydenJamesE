@@ -41,9 +41,11 @@
 - Deep Learning (AI 535)
 - ML Challenges in the Real World (AI 541)
 - Statistical Learning (AI 539)
+- Probabilistic Graphical Models I and II (AI 536 and AI 539)
 
 **Mathematics**
 
+- Intro to Mathmatical Statistics I and II (ST 521 and ST 522)
 - Numerical Linear Algebra (MTH 451)
 - Linear Algebra I & II
 - Vector Calculus (MTH 254)
