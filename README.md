@@ -21,13 +21,13 @@
     
 - **B.S. in Computer Science**
     
-    Oregon State University – Senior
+    Oregon State University
   
     GPA: 3.91
     
 - **M.S. in Artificial Intelligence** *(in progress)*
     
-    Accelerated Master’s Program at OSU
+    Oregon State University
 
     Advisor: Dr. Weng-Keen Wong
 
