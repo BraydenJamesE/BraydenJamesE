@@ -23,7 +23,7 @@
     
     Oregon State University
   
-    GPA: 3.91
+    GPA: 3.88
     
 - **M.S. in Artificial Intelligence** *(in progress)*
     
@@ -31,7 +31,7 @@
 
     Advisor: Dr. Weng-Keen Wong
 
-    GPA: 3.90
+    GPA: 3.88
 
 ## ⛳️ Relevant Courses Taken
 
